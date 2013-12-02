@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/SpringProject2/src/java/br/com/simpledev/spring/model/Locacao.java</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/SpringProject2/src/java/br/com/simpledev/spring/dao/jdbc/JdbcLocacaoDao.java</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/SpringProject2/web/WEB-INF/jsp/locacao/listaDevolvidos.jsp</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/SpringProject2/web/WEB-INF/jsp/locacao/lista.jsp</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/SpringProject2/web/WEB-INF/jsp/devolucao/lista.jsp</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/SpringProject2/web/WEB-INF/jsp/locacao/novo.jsp</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/SpringProject2/src/java/br/com/simpledev/spring/controller/LocacaoController.java</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/SpringProject2/web/WEB-INF/jsp/locacao/listaLocados.jsp</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/SpringProject2/web/WEB-INF/jsp/cliente/lista.jsp</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/SpringProject2/src/java/br/com/simpledev/spring/dao/LocacaoDao.java</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/SpringProject2/web/WEB-INF/jsp/carro/lista.jsp</file>
+            <file>file:/C:/Users/Halan/Documents/NetBeansProjects/simpledev-master/SpringProject2/web/WEB-INF/jsp/categoria/lista.jsp</file>
+        </group>
+    </open-files>
+</project-private>
